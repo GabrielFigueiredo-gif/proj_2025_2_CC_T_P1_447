@@ -14,7 +14,7 @@ Esta disciplina tem como objetivo ensinar os fundamentos e práticas essenciais 
 - **Passo 5:** Faça o upload do arquivo salvo no **Passo 3**;
 - **Passo 6:** Faça a solicitação pelo **Pull Request**, uma mensagem será enviada para o proprietário do repositório;
 
-## 🔹 3. Material de Apoio
+## 🔹 3. Material de Apoi
 Aqui estão alguns links úteis para aprofundar os estudos:
 - [Documentação Oficial do HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Guia de CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
